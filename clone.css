@@ -1,0 +1,272 @@
+*{
+    margin:0px;
+    border:0px;
+    padding: 0%;
+}
+.border:hover{
+    border-radius: 20px;
+    background-color:#0c5273 ;
+}
+.border2:hover{
+    border-bottom: 2px solid black;
+}
+.position{
+    position:fixed;
+    width: 100%;
+}
+.position2{
+    position:fixed;
+    top: 80px; ;
+    width: 100%;
+}
+.navbar1{
+    background-color:#0078ad;
+    padding: 20px 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.address{
+    color:white;
+padding: 4px 15px;
+margin-left: 20px;
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.a1{
+    color:white;
+    text-decoration:none;
+    margin-left: 5px;
+}
+.search{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    height: 40px;
+    background-color: #0c5273;
+    color:white;
+    border-radius: 60px;
+    padding-left: 10px;
+}
+.search1{
+    margin-left: 8px;
+    background-color: #0c5273;
+    width: 540px;
+}
+::placeholder{
+        color:white;
+        font-weight: bold;
+    }
+.cart{
+    margin-left: 25px;
+    color: white;
+}
+.signin{
+    margin-left: 15px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.signin1{
+    margin-left: 5px;
+    font-weight: lighter;
+}
+.person{
+    font-size: 30px;
+    color: white;
+    text-decoration: none;
+    margin-right: 0px;
+}
+
+
+.navbar2{
+height: 50px;
+background-color:#125476;
+display: flex;
+align-items: center;
+justify-content: center;
+color: white;
+}
+
+.a2{
+    color:white;
+    text-decoration:none;
+    font: 16px helvetica;
+    margin-right: 15px;
+    margin-left: 15px;
+    font-weight: bold;
+}
+.category{
+    width: 220px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.photos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:275px;
+    flex-direction: column;
+}
+.spacing{
+    height: 195px;
+    width: 340px;
+    border-radius: 20px;
+    margin:10px;
+}
+.dots{
+    display: flex;
+    justify-items: center;
+}
+.dotspacing{
+    margin-left: 3px;
+    color: lightblue;
+    height: 1px;
+}
+.photo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height:250px;
+}
+.spacing2{
+    width:70%;
+    border-radius: 20px;
+    height: 200px;
+}
+.margining{
+    margin-left: 15%;
+    font-weight: bolder;
+    font: 24px ;
+}
+.categories{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.categoryitems{
+    height:300px ;
+    width: 200px;
+    margin-left: 15px;
+}
+.gamingproduct{
+    display: flex;
+    align-items: center; 
+    justify-content: center;  
+    height:300px ;
+}
+.gamingphoto{
+    width: 70%;
+    height: 200px;
+    border-radius: 10px;
+}
+.bestof{
+    background-color: #ddf8ff;
+    height: 400px;
+    margin-bottom: 50px;
+}
+.type{
+    color:#aa0505;
+    font-weight: bold;
+    font: helvetica;
+    padding-top: 10px;
+    margin-left: 15%;
+}
+.bestofflex{
+    display: flex;
+justify-content: center;
+}
+.items{
+    height:291px ;
+    width:180px;
+    background-color: white;
+    margin: 5px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.size{
+    height: 155px;
+    width: 155px;
+    margin-top: 10px;
+}
+.rate{
+    font: 14px;
+    font-weight: bold;
+}
+.off{
+    display:inline-block;
+    background-color: #e5f7ee;
+    color:#03753c;
+    margin-left: 5px;
+}
+.shopping{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 400px;
+    flex-direction: column;
+    margin-bottom: 25px;
+}
+.shop{
+    margin-top: 25px;
+    border-radius: 10px;
+    width: 70%;
+}
+
+.foot{
+    height: 500px;
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+ul {
+    margin-top: 25px;
+}
+ul a{
+    display: block;
+    margin-top: 20px;
+    color: #000000A6;
+    font-weight: bolder;
+}
+.foot1{
+    width: 150px;
+}
+.foot2{
+    width: 200px;
+}
+.rate1{
+        font: 16px helvetica;
+        font-weight: bold;
+    }
+
+.color{
+    color: #000000A6;
+    font-weight: bolder;
+}
+.app{
+    display: flex;
+    justify-content:left;
+}
+.app1{
+    margin-right: 6px;
+}
+.last{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 64px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #000000A6;
+}
+.freespace{
+    width:350px;
+}
